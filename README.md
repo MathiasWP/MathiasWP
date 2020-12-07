@@ -3,7 +3,7 @@
 ### About Me:
 👨🏽‍💻 I'm a fullstack web-developer
 
-🐯 I actually think JavaScript is pretty cool
+🐯 I'm really into web development
 
 🐢 I'm a student at NTNU
 
